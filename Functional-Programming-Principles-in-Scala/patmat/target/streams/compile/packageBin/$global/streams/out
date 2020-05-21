@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/arushisharma/IdeaProjects/patmat/target/scala-2.13/progfun1-patmat_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat/Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/patmat/target/scala-2.13/classes/patmat/Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat/Huffman$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/patmat/target/scala-2.13/classes/patmat/Huffman$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat/HuffmanInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/patmat/target/scala-2.13/classes/patmat/HuffmanInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat/Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/patmat/target/scala-2.13/classes/patmat/Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat/Fork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/patmat/target/scala-2.13/classes/patmat/Fork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat/Fork$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/patmat/target/scala-2.13/classes/patmat/Fork$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat/CodeTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/patmat/target/scala-2.13/classes/patmat/CodeTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat/Huffman.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/patmat/target/scala-2.13/classes/patmat/Huffman.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/patmat/target/scala-2.13/classes/patmat[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

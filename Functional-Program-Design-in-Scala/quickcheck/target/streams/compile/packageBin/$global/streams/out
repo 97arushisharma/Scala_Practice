@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/progfun2-quickcheck_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/IntHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/IntHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/Bogus5BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/Bogus5BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/BinomialHeap$Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/BinomialHeap$Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/Bogus2BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/Bogus2BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/Bogus4BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/Bogus4BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/BinomialHeap$Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/BinomialHeap$Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/Bogus3BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/Bogus3BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/Heap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/Heap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/Bogus1BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/Bogus1BinomialHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/QuickCheckHeap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/arushisharma/IdeaProjects/quickcheck/target/scala-2.13/classes/quickcheck/QuickCheckHeap.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
