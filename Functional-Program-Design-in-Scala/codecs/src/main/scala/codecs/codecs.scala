@@ -219,19 +219,12 @@ trait DecoderInstances {
 
   implicit def listDecoder[A](implicit decoder: Decoder[A]): Decoder[List[A]] =
     Decoder.fromFunction {
-      case Json.Arr(list) => unfold(list
-        .map(elem =>
-          elem.decodeAs(decoder.decode(_))
-        )
-      )
-      case Json.Null => None
-//      ds => ds match {
-//        case Json.Arr(arr) => {
-//          var y = arr.map(x => decoder.decode(x))
-//          y.map(z => List(z))
-//        }
-//        case _ => None
-//      }
+      case Json.Arr(x) => {
+        val items = x map (decoder.decode)
+        if (items.forall(_.isDefined)) Some(items.map(_.get))
+        else Option.empty
+      }
+      case _ => Option.empty
     }
 
   /**
